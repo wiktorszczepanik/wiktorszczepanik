@@ -8,6 +8,5 @@
 - 👾 I also enjoy participating in CTF (Capture the Flag) challenges
 
 ```txt
-VjIweE5HRkdiM3BrUlZaT1UwZFNNVlpyWkc1bGJGWjBVbFJTVUZJeWQzZFZNRkpEWXpBd2VrMUZj
-MHNLCg==
+VjIweE5HRkdiM3BrUlZaT1UwZFNNVlpyWkc1bGJGWjBVbFJTVUZJeWQzZFZNRkpEWXpBd2VrMUZjMHNLCg==
 ```
