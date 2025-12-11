@@ -2,7 +2,8 @@
 
 - 👀 I like exploring different programming languages
 
-![stats](programming_languages.svg)
+![stats](programming_languages_update.svg)
+
 
 - 👾 I also enjoy participating in CTF (Capture the Flag) challenges
 
