@@ -1,11 +1,11 @@
 <h2>👋 Hi, I’m @wiktorszczepanik</h2>
 
-- 👀 I like exploring different programming languages
+- 👾 I like exploring different programming languages by reimplementing popular technologies and developing projects no one really needs
 
 ![stats](programming_languages_update.svg)
 
 
-- 👾 I also enjoy participating in CTF (Capture the Flag) challenges
+- 🚩 I also enjoy participating in CTF (Capture the Flag) challenges
 
 ```txt
 VjIweE5HRkdiM3BrUlZaT1UwZFNNVlpyWkc1bGJGWjBVbFJTVUZJeWQzZFZNRkpEWXpBd2VrMUZjMHNLCg==
