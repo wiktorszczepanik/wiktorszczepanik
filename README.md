@@ -2,4 +2,4 @@
 
 👾 I like exploring different programming languages by reimplementing popular technologies and building projects no one really needs
 
-![stats](programming_languages.svg)
+![stats](programming_languages_update.svg)
